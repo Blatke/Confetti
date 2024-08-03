@@ -85,7 +85,7 @@ Also, the minimum distance among the pieces are now resized to a very small valu
 For the shaders, the issue that pieces might be seen through themselves seems now to be solved. 
 
 ## v0.0.9 on October 1, 2023
-As considering the size of mod file, this update tries to increase the reusability of models that reduced the size of file from 122mb of the last version to the current 58mb.
+As considering the size of mod file, this update tries to increase the reusability of models that reduced the weight of file from 122mb of the last version to the current 58mb.
 
 There is a tiny change in item list:
 1. Confetti 1
